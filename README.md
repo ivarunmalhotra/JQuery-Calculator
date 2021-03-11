@@ -1,5 +1,5 @@
 ***
-# JQuery Calculator
+## JQuery Calculator
 ***
 ##### Made By: 
   - Varun Malhotra(ME)
