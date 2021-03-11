@@ -1,8 +1,8 @@
 ***
 ## JQuery Calculator
 ***
-##### Made By: 
-  - Varun Malhotra(ME)
+##### Instruction 
+  - Download all files.
 ***
 ##### Description:
   - Calculator made using JQuery, HTML and basic CSS for beginers. 
